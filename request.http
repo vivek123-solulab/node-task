@@ -5,7 +5,7 @@ POST {{base_url}}/users/signup
 Content-Type: application/json
 
 {
-    "email":"vivekpandey711110@gmail.com",
+    "email":"vivekpandey2710@gmail.com",
     "username":"vivek",
     "password":"vivek@123"
 }
